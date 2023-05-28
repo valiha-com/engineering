@@ -2,7 +2,7 @@
 
 Product and Platform Engineering practices related to Software Development
 
-- [ ] [ChatGPT](https://chat.openai.com/) Answers
+- [ ] [:accept: ChatGPT](https://chat.openai.com/) Answers
 
 | Question | Answers |
 |-|-|
