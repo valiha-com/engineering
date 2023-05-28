@@ -4,7 +4,7 @@ Product and Platform Engineering practices related to Software Development
 
 [:accept: ChatGPT](https://chat.openai.com/) Answers
 
-| :hash: | Question | Answers |
+| :hash: | Questions | Answers |
 |-|-|-|
 | :zero: | Give me an example of product engineering | [Product](ChatGPT/product.md) |
 | :one: | Give me an example of program engineering | [Program](ChatGPT/program.md) |
