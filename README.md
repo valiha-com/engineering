@@ -11,7 +11,7 @@ Program and Platform Engineering practices related to Software Engineering
 | :two: | and platform engineering                  | [Platform](ChatGPT/platform.md) |
 
 
-## :train: Platform Engineering
+:train: Platform Engineering
 
 - [ ] [Platform Engineering, Part 1: WHY — The Evolution of Developer Cognitive Load](https://medium.com/agorapulse-stories/platform-engineering-part-1-why-the-evolution-of-developer-cognitive-load-9f36f5cc2888)
 - [ ] [Platform Engineering, Part 2: WHAT Are The Goals of a Platform Engineering Team?](https://medium.com/agorapulse-stories/platform-engineering-part-2-what-are-the-goals-of-a-platform-engineering-team-29aa439dae7d)
