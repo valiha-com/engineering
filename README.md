@@ -1,6 +1,6 @@
-# Engineering
+# Engineering Practices
 
-Product and Platform Engineering
+Product and Platform Engineering practices related to Software Development
 
 - [ ] [ChatGPT](https://chat.openai.com/) Answers
 
