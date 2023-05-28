@@ -1,4 +1,4 @@
-Certainly! Here's an example of a platform engineering project:
+> Certainly! Here's an example of a platform engineering project:
 
 Let's consider the development of an e-commerce platform. The goal is to create a scalable and reliable platform that connects buyers and sellers, enables online transactions, and provides a seamless shopping experience. The platform engineering process involves several stages:
 
