@@ -6,5 +6,5 @@ Product and Platform Engineering
 
 | Question | Answers |
 |-|-|
-| :one: Give me an example of product engineering | 
-| :two: and platform engineering                  | 
+| :one: Give me an example of product engineering | [Product](ChatGPT/Product.md) |
+| :two: and platform engineering                  | [Platform]
